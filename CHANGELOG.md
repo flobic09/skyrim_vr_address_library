@@ -1,3 +1,78 @@
+# [0.244.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.243.0...v0.244.0) (2026-07-30)
+
+
+### Features
+
+* add SynchronizedMap/BSTaskManager ids ([2b32301](https://github.com/alandtse/skyrim_vr_address_library/commit/2b32301b9d40462ef3f129f49dc50ff9be6a7e34))
+
+# [0.243.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.242.0...v0.243.0) (2026-07-30)
+
+
+### Bug Fixes
+
+* correct mislabeled TES id, add FinishLoad ([d4c4962](https://github.com/alandtse/skyrim_vr_address_library/commit/d4c49623ae7a0ab8a48e812230ee2ed36da9ee59))
+
+
+### Features
+
+* add BSTaskletManager ids ([5dabd5b](https://github.com/alandtse/skyrim_vr_address_library/commit/5dabd5bfcae68d84278f973b864f3579fae96f75))
+* add LoadedAreaBound method ids ([b21120b](https://github.com/alandtse/skyrim_vr_address_library/commit/b21120bc96eec1258b5ed84b7419e860084d1bff))
+* add QuickLoot IE ([14391eb](https://github.com/alandtse/skyrim_vr_address_library/commit/14391ebbc534d29cd3a1bb56097848a4767e8e5c))
+* register BGSAcousticSpace::Deactivate id ([eec5565](https://github.com/alandtse/skyrim_vr_address_library/commit/eec55653c957e6cc0d43a9b0c7343fdc07fc778c))
+* register IOManager singleton and core methods ([fe92b5b](https://github.com/alandtse/skyrim_vr_address_library/commit/fe92b5b4447b5d1a3cbdcf728b4c39969b82a6ca))
+
+# [0.242.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.241.0...v0.242.0) (2026-07-24)
+
+
+### Features
+
+* add BGSCreatedObjectManager/PlayerRegionState ([efb0fc7](https://github.com/alandtse/skyrim_vr_address_library/commit/efb0fc73a33f51b51030c9f7612640c7e448b069))
+
+# [0.241.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.240.0...v0.241.0) (2026-07-20)
+
+
+### Features
+
+* add missing EngineFixes address library ids ([7a3d267](https://github.com/alandtse/skyrim_vr_address_library/commit/7a3d267d9c33bb532bf5891af12cf660a8b4eebd))
+
+# [0.240.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.239.0...v0.240.0) (2026-07-20)
+
+
+### Features
+
+* add ControlMap/Rumble/ButtonEvent ([#145](https://github.com/alandtse/skyrim_vr_address_library/issues/145)) ([b595b8d](https://github.com/alandtse/skyrim_vr_address_library/commit/b595b8d06846fd42b7deab9d4e1dc1924a1e446d))
+* add MenuControls RegisterHandler/UnregisterHandler ([#147](https://github.com/alandtse/skyrim_vr_address_library/issues/147)) ([baef886](https://github.com/alandtse/skyrim_vr_address_library/commit/baef8864208fc5262cb62590c73a1194cf387775))
+* add PlayerControls RegisterHandler/UnregisterHandler ([#146](https://github.com/alandtse/skyrim_vr_address_library/issues/146)) ([758b9c4](https://github.com/alandtse/skyrim_vr_address_library/commit/758b9c47592ea5afd1c7a521508e620bbbfe17f4))
+
+# [0.239.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.238.0...v0.239.0) (2026-07-18)
+
+
+### Features
+
+* add UIManager::AllowTextInput1 ([3aad25a](https://github.com/alandtse/skyrim_vr_address_library/commit/3aad25a67dc73ef7920d7cebad5927b6a3c01a56))
+
+# [0.238.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.237.0...v0.238.0) (2026-07-18)
+
+
+### Features
+
+* add BSShadowLight ctor and IsInRange ([#144](https://github.com/alandtse/skyrim_vr_address_library/issues/144)) ([04d56ce](https://github.com/alandtse/skyrim_vr_address_library/commit/04d56ce8c8f05db125ae8e23ddd0cd0dbb14e595))
+
+# [0.237.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.236.0...v0.237.0) (2026-07-15)
+
+
+### Features
+
+* add NiCamera::CopyMembers ([#143](https://github.com/alandtse/skyrim_vr_address_library/issues/143)) ([0cdae0d](https://github.com/alandtse/skyrim_vr_address_library/commit/0cdae0d6fcf610679119ac5467ea75b2091ccc88))
+
+# [0.236.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.235.0...v0.236.0) (2026-07-13)
+
+
+### Features
+
+* add AddPotion/AddPoison ([#142](https://github.com/alandtse/skyrim_vr_address_library/issues/142)) ([6ca423e](https://github.com/alandtse/skyrim_vr_address_library/commit/6ca423e75e02c54c2e22062feaf499b2710e9d9f))
+* add BSBatchRenderer helper ([#141](https://github.com/alandtse/skyrim_vr_address_library/issues/141)) ([f1134bc](https://github.com/alandtse/skyrim_vr_address_library/commit/f1134bcaefb69ac4654094424832a5618772c2cb))
+
 # [0.235.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.234.0...v0.235.0) (2026-07-06)
 
 
