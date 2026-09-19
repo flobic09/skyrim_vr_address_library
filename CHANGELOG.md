@@ -1,3 +1,24 @@
+# [0.267.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.266.0...v0.267.0) (2026-09-18)
+
+
+### Features
+
+* add RE::FlameProjectile::UpdateImpl ([#220](https://github.com/alandtse/skyrim_vr_address_library/issues/220)) ([b2f87a5](https://github.com/alandtse/skyrim_vr_address_library/commit/b2f87a563a86d2b7f0445885bd738786b2a9c927))
+
+# [0.266.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.265.0...v0.266.0) (2026-09-16)
+
+
+### Features
+
+* add Actor::GetCombatGroup/SetCombatGroup ([#219](https://github.com/alandtse/skyrim_vr_address_library/issues/219)) ([d5acb42](https://github.com/alandtse/skyrim_vr_address_library/commit/d5acb423cc07b36007bc25e1f5b1a5badcbd8812))
+
+# [0.265.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.264.0...v0.265.0) (2026-09-13)
+
+
+### Features
+
+* add BSUtilityShader::SetupGeometry ([#215](https://github.com/alandtse/skyrim_vr_address_library/issues/215)) ([75da981](https://github.com/alandtse/skyrim_vr_address_library/commit/75da9817e8bd616d67181e033d469291ee551142))
+
 # [0.264.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.263.0...v0.264.0) (2026-09-09)
 
 
