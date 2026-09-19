@@ -1784,6 +1784,7 @@
 69692,0x140c79080,0x140cbf8d0,3,NiDirectionalLight* NiDirectionalLight::Ctor
 69699,0x140c792a0,0x140cbfaf0,4,void NiCullingProcess::SetFrustum(const NiFrustum* a_frustum)
 69804,0x140c7eb60,0x140cc5250,3,RE::NiSkinInstance::Ctor
+70045,0x140c871e0,0x140ccdac0,3,void NiParticlesData::LoadBinary_140C871E0(longlong param_1,longlong param_2)
 70860,0x140cc6090,0x140d0cbe0,4,"void NiControllerSequence::SetPhase(float a_phase, bool a_arg2)"
 70880,0x140cc76e0,0x140d0e230,4,NiControllerSequence::Activate_*
 70882,0x140cc7cb0,0x140d0e800,4,"bool NiControllerSequence::Activate(std::uint8_t a_interpIndex, bool a_maxOffset, float a_seqWeight, float a_easeInTime, NiControllerSequence* a_partnerSequence, bool a_transition)"
