@@ -1,3 +1,137 @@
+# [0.282.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.281.0...v0.282.0) (2026-10-15)
+
+
+### Features
+
+* add sun occlusion poll ids ([#273](https://github.com/alandtse/skyrim_vr_address_library/issues/273)) ([556f0bf](https://github.com/alandtse/skyrim_vr_address_library/commit/556f0bf1ec53a5e35f98f84d1c05feb6cd1d791f))
+
+# [0.281.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.280.0...v0.281.0) (2026-10-15)
+
+
+### Features
+
+* add BSShaderAccumulator first-person ids ([#274](https://github.com/alandtse/skyrim_vr_address_library/issues/274)) ([d1bab0e](https://github.com/alandtse/skyrim_vr_address_library/commit/d1bab0e0a498183fbc44c6770ddf03f510fd0c09))
+
+# [0.280.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.279.0...v0.280.0) (2026-10-15)
+
+
+### Features
+
+* add bhkCollisionFilter layer setters ([#269](https://github.com/alandtse/skyrim_vr_address_library/issues/269)) ([3e5f343](https://github.com/alandtse/skyrim_vr_address_library/commit/3e5f343bb52e12ae4b24cc78a1f192f0966848d5))
+* add cell loading, LOD and engine fix rows ([#268](https://github.com/alandtse/skyrim_vr_address_library/issues/268)) ([0486519](https://github.com/alandtse/skyrim_vr_address_library/commit/0486519c2d47d13acd1872adfac10c7649aaabcd))
+* add reflection and shadow renderer rows ([#267](https://github.com/alandtse/skyrim_vr_address_library/issues/267)) ([f82448f](https://github.com/alandtse/skyrim_vr_address_library/commit/f82448f1f6718ecf472c72f173699c5903a58dae))
+* add room lighting and offset data rows ([#270](https://github.com/alandtse/skyrim_vr_address_library/issues/270)) ([e2375a6](https://github.com/alandtse/skyrim_vr_address_library/commit/e2375a6cc635ce8cb3ca2632709f7e7898ec4a73))
+* correct BSCubeMapCamera::Dtor VR address ([#265](https://github.com/alandtse/skyrim_vr_address_library/issues/265)) ([8936e48](https://github.com/alandtse/skyrim_vr_address_library/commit/8936e483f82865e4102241ae3971ec3bc2752940))
+* use the live VR RenderFirstPersonView ([#266](https://github.com/alandtse/skyrim_vr_address_library/issues/266)) ([c382c44](https://github.com/alandtse/skyrim_vr_address_library/commit/c382c447cd4dcab41e4bd3d090828e484b5cfe96))
+
+# [0.279.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.278.0...v0.279.0) (2026-10-14)
+
+
+### Features
+
+* add occlusion visibility rows ([#262](https://github.com/alandtse/skyrim_vr_address_library/issues/262)) ([a364e0d](https://github.com/alandtse/skyrim_vr_address_library/commit/a364e0dca36e4483a5c068152fcedf48085f9b13))
+* add TES LOD blend AE id mappings ([#264](https://github.com/alandtse/skyrim_vr_address_library/issues/264)) ([ab34124](https://github.com/alandtse/skyrim_vr_address_library/commit/ab341247d59b06712a7d8b93661f1f016cf76cb3))
+
+# [0.278.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.277.0...v0.278.0) (2026-10-13)
+
+
+### Features
+
+* add job list and low actor rows ([#259](https://github.com/alandtse/skyrim_vr_address_library/issues/259)) ([51751fd](https://github.com/alandtse/skyrim_vr_address_library/commit/51751fd6ad16adea8e8c29ac765611219902fb99))
+* add TES LOD blend rows ([#261](https://github.com/alandtse/skyrim_vr_address_library/issues/261)) ([ebdc36f](https://github.com/alandtse/skyrim_vr_address_library/commit/ebdc36fa3c221bebdc420b2ddd1671d887610744))
+
+# [0.277.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.276.1...v0.277.0) (2026-10-11)
+
+
+### Features
+
+* add ExtraDataList constructor ([#251](https://github.com/alandtse/skyrim_vr_address_library/issues/251)) ([ee105a0](https://github.com/alandtse/skyrim_vr_address_library/commit/ee105a03e2724d44a174a6b63e5645739ebe5ed3))
+* add ExtraDataList destructor rows ([#254](https://github.com/alandtse/skyrim_vr_address_library/issues/254)) ([97f701f](https://github.com/alandtse/skyrim_vr_address_library/commit/97f701fd486969496ad07369979a2b66b3763cc5))
+* add light-list fence and attach ids ([#257](https://github.com/alandtse/skyrim_vr_address_library/issues/257)) ([babe8e6](https://github.com/alandtse/skyrim_vr_address_library/commit/babe8e678eab46686ae8622bfb74503f9166d598))
+* add LOD shape and skin partition rows ([#256](https://github.com/alandtse/skyrim_vr_address_library/issues/256)) ([7abd704](https://github.com/alandtse/skyrim_vr_address_library/commit/7abd704c16be3fb37a0824038c1347fd49fb4679))
+* add NiBoneMatrixSetterI::SetBoneMatrices ([#255](https://github.com/alandtse/skyrim_vr_address_library/issues/255)) ([d9dea38](https://github.com/alandtse/skyrim_vr_address_library/commit/d9dea38188b0e59dc58c40bd0bb132e4f31fb375))
+* add Scaleform GFx and AS rows ([#250](https://github.com/alandtse/skyrim_vr_address_library/issues/250)) ([3637819](https://github.com/alandtse/skyrim_vr_address_library/commit/3637819ed0afd97c7c27f5a0de9d1153f17be775))
+* add Scaleform SE-AE id rows ([#252](https://github.com/alandtse/skyrim_vr_address_library/issues/252)) ([09b2e46](https://github.com/alandtse/skyrim_vr_address_library/commit/09b2e46bfb36ad793035f1498df440f048280d83))
+* add Scaleform vtable and dtor rows ([#253](https://github.com/alandtse/skyrim_vr_address_library/issues/253)) ([ca6a86e](https://github.com/alandtse/skyrim_vr_address_library/commit/ca6a86e0a26fe453226b86c4934786fc6671821c))
+
+## [0.276.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.276.0...v0.276.1) (2026-10-04)
+
+
+### Bug Fixes
+
+* correct Inventory3D and BSDismemberSkinInstance rows ([#247](https://github.com/alandtse/skyrim_vr_address_library/issues/247)) ([78ac104](https://github.com/alandtse/skyrim_vr_address_library/commit/78ac1041e02f2096da988a7f0d372ab47959deb7))
+
+# [0.276.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.275.0...v0.276.0) (2026-10-04)
+
+
+### Features
+
+* add culling and frustum rows ([#246](https://github.com/alandtse/skyrim_vr_address_library/issues/246)) ([00c0654](https://github.com/alandtse/skyrim_vr_address_library/commit/00c0654d5b818baee2eef02577e0afeff4de9e04))
+
+# [0.275.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.274.0...v0.275.0) (2026-09-30)
+
+
+### Features
+
+* add quest global and SkipText rows ([#245](https://github.com/alandtse/skyrim_vr_address_library/issues/245)) ([dd68909](https://github.com/alandtse/skyrim_vr_address_library/commit/dd68909a80a325ea5535592fea9e3626009a681d))
+
+# [0.274.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.273.0...v0.274.0) (2026-09-30)
+
+
+### Features
+
+* add culling dispatch and accumulator rows ([#243](https://github.com/alandtse/skyrim_vr_address_library/issues/243)) ([200b677](https://github.com/alandtse/skyrim_vr_address_library/commit/200b677428a5f7df019b0e4ce96762f2e92075f5))
+
+# [0.273.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.272.0...v0.273.0) (2026-09-29)
+
+
+### Features
+
+* add terrain, render and inventory functions ([#242](https://github.com/alandtse/skyrim_vr_address_library/issues/242)) ([a202397](https://github.com/alandtse/skyrim_vr_address_library/commit/a2023973a71d409e6284ea0b6a914c79b79c65d2))
+
+# [0.272.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.271.1...v0.272.0) (2026-09-28)
+
+
+### Features
+
+* add BSDismemberSkinInstance Ctor and Create ([#234](https://github.com/alandtse/skyrim_vr_address_library/issues/234)) ([2fcf130](https://github.com/alandtse/skyrim_vr_address_library/commit/2fcf130a0abb28999898ba08f81e9027fb249c99))
+
+## [0.271.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.271.0...v0.271.1) (2026-09-27)
+
+
+### Bug Fixes
+
+* add NiAVObject::LookupBoneNodeByName ([#233](https://github.com/alandtse/skyrim_vr_address_library/issues/233)) ([37b77f3](https://github.com/alandtse/skyrim_vr_address_library/commit/37b77f3f00ae0d7474845a3acb6fb957b2212c71))
+
+# [0.271.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.270.0...v0.271.0) (2026-09-25)
+
+
+### Features
+
+* add NiObject deferred-release queue ([#229](https://github.com/alandtse/skyrim_vr_address_library/issues/229)) ([c0a5937](https://github.com/alandtse/skyrim_vr_address_library/commit/c0a593780d59ea10b46db7ce37b4a9a49f1911ad))
+
+# [0.270.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.269.0...v0.270.0) (2026-09-24)
+
+
+### Features
+
+* add RaceMenu VR ([#224](https://github.com/alandtse/skyrim_vr_address_library/issues/224)) ([918aa62](https://github.com/alandtse/skyrim_vr_address_library/commit/918aa62ec4f3ca6839ea1df034ad2e1753f415cf))
+
+# [0.269.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.268.0...v0.269.0) (2026-09-24)
+
+
+### Features
+
+* add BSLight deleting destructor ([#225](https://github.com/alandtse/skyrim_vr_address_library/issues/225)) ([df6c507](https://github.com/alandtse/skyrim_vr_address_library/commit/df6c5077973c1acb6be6a50eff1919ad208818d2))
+* add Sky::ResetModelHandle ([#226](https://github.com/alandtse/skyrim_vr_address_library/issues/226)) ([cf7bcec](https://github.com/alandtse/skyrim_vr_address_library/commit/cf7bcec3cc559d1fc3efefeac3a02887845a57ab))
+
+# [0.268.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.267.0...v0.268.0) (2026-09-20)
+
+
+### Features
+
+* add culling, alpha group and shadow ids ([#221](https://github.com/alandtse/skyrim_vr_address_library/issues/221)) ([67d9ef4](https://github.com/alandtse/skyrim_vr_address_library/commit/67d9ef46267fb99e9561cdcfe2282dfb3f4ee36c))
+
 # [0.267.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.266.0...v0.267.0) (2026-09-18)
 
 
