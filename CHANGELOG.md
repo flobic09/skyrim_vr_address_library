@@ -1,3 +1,212 @@
+# [0.303.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.302.0...v0.303.0) (2026-11-12)
+
+
+### Features
+
+* add Papyrus opcode handler ids ([#349](https://github.com/alandtse/skyrim_vr_address_library/issues/349)) ([212993d](https://github.com/alandtse/skyrim_vr_address_library/commit/212993d8df370e437cf7760a5ce255e8b17eeaba))
+
+# [0.302.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.301.0...v0.302.0) (2026-11-11)
+
+
+### Bug Fixes
+
+* name PlayerCharacter waypoint functions ([#343](https://github.com/alandtse/skyrim_vr_address_library/issues/343)) ([1c3c2d6](https://github.com/alandtse/skyrim_vr_address_library/commit/1c3c2d6e62b20a54454d65d277b86566a837333d))
+
+
+### Features
+
+* add animation motion chain ids ([#346](https://github.com/alandtse/skyrim_vr_address_library/issues/346)) ([9cf7fc9](https://github.com/alandtse/skyrim_vr_address_library/commit/9cf7fc9fdfa931cd1ad1cf152a885dd7d3052774))
+* add BipedAnim root and body ids ([#345](https://github.com/alandtse/skyrim_vr_address_library/issues/345)) ([e90c155](https://github.com/alandtse/skyrim_vr_address_library/commit/e90c15554833ec0760a079d22ccf05fae8b65b0e))
+* add light, projectile and event ids ([#344](https://github.com/alandtse/skyrim_vr_address_library/issues/344)) ([10dcf65](https://github.com/alandtse/skyrim_vr_address_library/commit/10dcf658096bebc41b796d85df8b6f157fa3786d))
+* add seven world map function mappings ([#337](https://github.com/alandtse/skyrim_vr_address_library/issues/337)) ([1ed9ab1](https://github.com/alandtse/skyrim_vr_address_library/commit/1ed9ab1e79414fc7f506c2ef14c6e03271484caf))
+
+# [0.301.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.300.0...v0.301.0) (2026-11-10)
+
+
+### Features
+
+* add CombatGroup removal ids ([#341](https://github.com/alandtse/skyrim_vr_address_library/issues/341)) ([531cb25](https://github.com/alandtse/skyrim_vr_address_library/commit/531cb25a30cfb0adb657b0ac04c58c80d4ec3029))
+* add GarbageCollector queue ids ([#342](https://github.com/alandtse/skyrim_vr_address_library/issues/342)) ([7381d75](https://github.com/alandtse/skyrim_vr_address_library/commit/7381d75f1e9504bc56a14604d8d53b0de4522da2))
+
+# [0.300.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.299.0...v0.300.0) (2026-11-09)
+
+
+### Features
+
+* add AE ids for world map markers ([#338](https://github.com/alandtse/skyrim_vr_address_library/issues/338)) ([cac3281](https://github.com/alandtse/skyrim_vr_address_library/commit/cac3281fc36a46c83b43b894bfd10b24e2ed3021))
+* add world map helper ids ([#339](https://github.com/alandtse/skyrim_vr_address_library/issues/339)) ([d6e729c](https://github.com/alandtse/skyrim_vr_address_library/commit/d6e729c68d2b8e1c82af8de196cf3554459052f7))
+
+# [0.299.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.298.0...v0.299.0) (2026-11-08)
+
+
+### Features
+
+* add AE ids for face morph and PostDisplay ([#336](https://github.com/alandtse/skyrim_vr_address_library/issues/336)) ([cb12635](https://github.com/alandtse/skyrim_vr_address_library/commit/cb1263596551debcbdf7a8969a63f35925a0ab58))
+
+# [0.298.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.297.0...v0.298.0) (2026-11-08)
+
+
+### Features
+
+* add MagicCaster ProcessQuickRelease id ([#335](https://github.com/alandtse/skyrim_vr_address_library/issues/335)) ([1893666](https://github.com/alandtse/skyrim_vr_address_library/commit/18936668a220ce6d1c2acf61265e001ef575b7fc))
+
+# [0.297.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.296.0...v0.297.0) (2026-11-08)
+
+
+### Features
+
+* add PlayerRegionState pointer id ([#334](https://github.com/alandtse/skyrim_vr_address_library/issues/334)) ([8ea0e13](https://github.com/alandtse/skyrim_vr_address_library/commit/8ea0e1376681046d3521d24b09afd073ebf6078f))
+
+# [0.296.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.295.0...v0.296.0) (2026-11-07)
+
+
+### Features
+
+* add Havok physics ids ([#332](https://github.com/alandtse/skyrim_vr_address_library/issues/332)) ([7d0843d](https://github.com/alandtse/skyrim_vr_address_library/commit/7d0843d2c672cb966254f441909d058b456153bd))
+* add Sky rain and snow ids ([#331](https://github.com/alandtse/skyrim_vr_address_library/issues/331)) ([5d929fa](https://github.com/alandtse/skyrim_vr_address_library/commit/5d929fa3a2e0b181121458eb7bc262ca9cad45a0))
+
+# [0.295.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.294.0...v0.295.0) (2026-11-05)
+
+
+### Features
+
+* add cell reference and collection ids ([#328](https://github.com/alandtse/skyrim_vr_address_library/issues/328)) ([0a983df](https://github.com/alandtse/skyrim_vr_address_library/commit/0a983df14ffa1fff62dcc5a49f99b1433b18fec5))
+* add float interpolator create ids ([#330](https://github.com/alandtse/skyrim_vr_address_library/issues/330)) ([702e794](https://github.com/alandtse/skyrim_vr_address_library/commit/702e7941fafababa1e4dbde1ab0781529103c52c))
+
+# [0.294.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.293.0...v0.294.0) (2026-11-04)
+
+
+### Features
+
+* add biped geometry creation id ([#309](https://github.com/alandtse/skyrim_vr_address_library/issues/309)) ([b1ee527](https://github.com/alandtse/skyrim_vr_address_library/commit/b1ee527529ab3a10437d303e396fe9d98a66fbaa))
+* add Character travel package id ([#324](https://github.com/alandtse/skyrim_vr_address_library/issues/324)) ([5dcf022](https://github.com/alandtse/skyrim_vr_address_library/commit/5dcf022a8a78c11a0efd1c2b8a276239b405dc4b))
+* add dynamic geometry lifecycle ids ([#314](https://github.com/alandtse/skyrim_vr_address_library/issues/314)) ([fb22bb4](https://github.com/alandtse/skyrim_vr_address_library/commit/fb22bb4b043cd2d7c0a747e60e8ed95e92aa45ac))
+* add face morph dispatch ids ([#310](https://github.com/alandtse/skyrim_vr_address_library/issues/310)) ([8db2b94](https://github.com/alandtse/skyrim_vr_address_library/commit/8db2b94efd24e6b449fe11995b1d3ace54f8aefc))
+* add geometry allocator ids ([#313](https://github.com/alandtse/skyrim_vr_address_library/issues/313)) ([410e620](https://github.com/alandtse/skyrim_vr_address_library/commit/410e6206eac5cd4dbb878874678ae33af88b0f62))
+* add head part cache ids ([#308](https://github.com/alandtse/skyrim_vr_address_library/issues/308)) ([2c74c5f](https://github.com/alandtse/skyrim_vr_address_library/commit/2c74c5ffb636d1b81d006294d8481c167ab0186d))
+* add inventory model update ids ([#312](https://github.com/alandtse/skyrim_vr_address_library/issues/312)) ([1c4fcf5](https://github.com/alandtse/skyrim_vr_address_library/commit/1c4fcf5da9e8b2faa84d706ba4c9772bfc6dc48b))
+* add MagicTarget IsInvulnerable ids ([#326](https://github.com/alandtse/skyrim_vr_address_library/issues/326)) ([60e5edc](https://github.com/alandtse/skyrim_vr_address_library/commit/60e5edcaf54dc87d916ead5c2c3b484521806ba4))
+* add RaceMenu and GFx dispatch ids ([#311](https://github.com/alandtse/skyrim_vr_address_library/issues/311)) ([6e2adcf](https://github.com/alandtse/skyrim_vr_address_library/commit/6e2adcf8fab0e8ca0f721392725bd84571a7fa8b))
+* name RaceMenu and dynamic geometry ids ([#327](https://github.com/alandtse/skyrim_vr_address_library/issues/327)) ([a6742f0](https://github.com/alandtse/skyrim_vr_address_library/commit/a6742f02c4c39809e7177bddcd01312b731ee7a5))
+
+# [0.293.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.292.0...v0.293.0) (2026-11-02)
+
+
+### Features
+
+* add cell, location count and IOManager ids ([#322](https://github.com/alandtse/skyrim_vr_address_library/issues/322)) ([9939439](https://github.com/alandtse/skyrim_vr_address_library/commit/99394393cff09c911ba047641ad2b8a5788ab3c7))
+* add load form and package data ids ([#323](https://github.com/alandtse/skyrim_vr_address_library/issues/323)) ([09228cf](https://github.com/alandtse/skyrim_vr_address_library/commit/09228cf2945950093cc51c5578906166c7a6c1e9))
+* map segment and clone helpers ([#320](https://github.com/alandtse/skyrim_vr_address_library/issues/320)) ([6d57a44](https://github.com/alandtse/skyrim_vr_address_library/commit/6d57a4475aa42b645a0b63a38784bab58a41a00d))
+
+# [0.292.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.291.0...v0.292.0) (2026-10-30)
+
+
+### Features
+
+* add MessageBox, MistMenu, and IMenu VR addresses ([#319](https://github.com/alandtse/skyrim_vr_address_library/issues/319)) ([203baa1](https://github.com/alandtse/skyrim_vr_address_library/commit/203baa1068b16cec9fb8d00db8ef8c87b290ce85))
+
+# [0.291.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.290.1...v0.291.0) (2026-10-29)
+
+
+### Features
+
+* add ordered node ancestor finder id ([#318](https://github.com/alandtse/skyrim_vr_address_library/issues/318)) ([b653661](https://github.com/alandtse/skyrim_vr_address_library/commit/b653661d80bdc4c7ee7263c6a12abbc846b1aea6))
+
+## [0.290.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.290.0...v0.290.1) (2026-10-29)
+
+
+### Bug Fixes
+
+* drop wrong VR address for QueueLensFlare ([#317](https://github.com/alandtse/skyrim_vr_address_library/issues/317)) ([64b9621](https://github.com/alandtse/skyrim_vr_address_library/commit/64b9621284033601456bb89b0d73dcce6c17077f))
+
+# [0.290.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.289.0...v0.290.0) (2026-10-29)
+
+
+### Features
+
+* add head, biped and face node ids ([#304](https://github.com/alandtse/skyrim_vr_address_library/issues/304)) ([72e4e4e](https://github.com/alandtse/skyrim_vr_address_library/commit/72e4e4ea511d66c09e1d7c4763f572772240685f))
+* add map menu and scenegraph ids ([#306](https://github.com/alandtse/skyrim_vr_address_library/issues/306)) ([1508075](https://github.com/alandtse/skyrim_vr_address_library/commit/1508075a76b5e11d2e4415b29eb19fc4cea448c2))
+* add sin LUT rows, fix Handle signature ([#305](https://github.com/alandtse/skyrim_vr_address_library/issues/305)) ([8aeb0d0](https://github.com/alandtse/skyrim_vr_address_library/commit/8aeb0d09ba27c3885e1a7ac67c2d8745f4a5a01e))
+
+# [0.289.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.288.0...v0.289.0) (2026-10-27)
+
+
+### Features
+
+* add grass fade and group queue ids ([#299](https://github.com/alandtse/skyrim_vr_address_library/issues/299)) ([6aae950](https://github.com/alandtse/skyrim_vr_address_library/commit/6aae95016f4801eed0084363024ae624d520c732))
+* add helper names from recursive RE ([#298](https://github.com/alandtse/skyrim_vr_address_library/issues/298)) ([4f45987](https://github.com/alandtse/skyrim_vr_address_library/commit/4f459879a6223bd8c9ad70b385c6d56dde3942e3))
+* add NGIO 2.0 addresses ([#301](https://github.com/alandtse/skyrim_vr_address_library/issues/301)) ([7b7d0a5](https://github.com/alandtse/skyrim_vr_address_library/commit/7b7d0a5f7a4d651cf3fb8804644cab471699fdce))
+* add VR ids for geometry destructors ([#300](https://github.com/alandtse/skyrim_vr_address_library/issues/300)) ([207d0e3](https://github.com/alandtse/skyrim_vr_address_library/commit/207d0e3016f1be1b381a7919dc9a99ea52f284d8))
+* add water flow map and singleton ids ([#303](https://github.com/alandtse/skyrim_vr_address_library/issues/303)) ([70c3f5c](https://github.com/alandtse/skyrim_vr_address_library/commit/70c3f5c9a9d6d8b3eb1b5ec8e8591c64c012a308))
+
+# [0.288.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.287.0...v0.288.0) (2026-10-25)
+
+
+### Features
+
+* add 122 VR addresses used by urSovngarde ([#295](https://github.com/alandtse/skyrim_vr_address_library/issues/295)) ([ef907cd](https://github.com/alandtse/skyrim_vr_address_library/commit/ef907cd4f7503606939bf892af9e75456f48aae8))
+* add VR ids for aiming, bow draw and spell casting ([#296](https://github.com/alandtse/skyrim_vr_address_library/issues/296)) ([fdb572a](https://github.com/alandtse/skyrim_vr_address_library/commit/fdb572ab6eada6ffeb59f0205a2db9b86fb4c9ef))
+* **addresslib:** add ClearBSShaders VR id ([#297](https://github.com/alandtse/skyrim_vr_address_library/issues/297)) ([4d690f4](https://github.com/alandtse/skyrim_vr_address_library/commit/4d690f42778d28853c488ba693e26ab2a2989afd))
+
+# [0.287.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.286.0...v0.287.0) (2026-10-25)
+
+
+### Features
+
+* **bsmodeldb:** add model load function ids ([#294](https://github.com/alandtse/skyrim_vr_address_library/issues/294)) ([fd5fdd7](https://github.com/alandtse/skyrim_vr_address_library/commit/fd5fdd7443abeffe76539cd210cb7bb124de1577))
+
+# [0.286.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.285.0...v0.286.0) (2026-10-24)
+
+
+### Bug Fixes
+
+* **addresslib:** add linked LOD shadow globals ([#292](https://github.com/alandtse/skyrim_vr_address_library/issues/292)) ([f142fa4](https://github.com/alandtse/skyrim_vr_address_library/commit/f142fa44aeec1ef637b442477bb8b91c866039fc))
+* correct status for 12 divergent ids ([#286](https://github.com/alandtse/skyrim_vr_address_library/issues/286)) ([2ee8e7d](https://github.com/alandtse/skyrim_vr_address_library/commit/2ee8e7d6eb7ce28e3254e61ef552c103d88045be))
+* correct two VR addresses copied from a neighbour ([#289](https://github.com/alandtse/skyrim_vr_address_library/issues/289)) ([f231718](https://github.com/alandtse/skyrim_vr_address_library/commit/f231718792a4981f2d05c455b2f4948291e03c0d))
+* restore status 4 for TriShape::Release ([#287](https://github.com/alandtse/skyrim_vr_address_library/issues/287)) ([a382179](https://github.com/alandtse/skyrim_vr_address_library/commit/a38217960e3099bff9451ba2854c189cbf25470a))
+
+
+### Features
+
+* add plugin load and master check ids ([#293](https://github.com/alandtse/skyrim_vr_address_library/issues/293)) ([b1cb8f8](https://github.com/alandtse/skyrim_vr_address_library/commit/b1cb8f8db2e3cc51034282b4d14e7907403f727a))
+* add render and sky SE to AE id pairs ([#285](https://github.com/alandtse/skyrim_vr_address_library/issues/285)) ([928ac9f](https://github.com/alandtse/skyrim_vr_address_library/commit/928ac9f31031919f3d9e74d266d204c7238cf7fc))
+* **addresslib:** add active manager mapping ([#291](https://github.com/alandtse/skyrim_vr_address_library/issues/291)) ([cf2a131](https://github.com/alandtse/skyrim_vr_address_library/commit/cf2a131fc1a79eea873169303c18118e0b50f44a))
+
+# [0.285.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.284.1...v0.285.0) (2026-10-21)
+
+
+### Features
+
+* add cull, input and render ids ([#283](https://github.com/alandtse/skyrim_vr_address_library/issues/283)) ([06f76ee](https://github.com/alandtse/skyrim_vr_address_library/commit/06f76ee17e229a4b9d39dc26566e0836a83c3830))
+
+## [0.284.1](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.284.0...v0.284.1) (2026-10-21)
+
+
+### Bug Fixes
+
+* quote two CSV signatures ([#282](https://github.com/alandtse/skyrim_vr_address_library/issues/282)) ([00c9f13](https://github.com/alandtse/skyrim_vr_address_library/commit/00c9f1373d73ef6c8fb78ebd1e3dddab6283012c))
+
+# [0.284.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.283.0...v0.284.0) (2026-10-20)
+
+
+### Features
+
+* add VM, SpellsLearned, SetParentCell ids ([#275](https://github.com/alandtse/skyrim_vr_address_library/issues/275)) ([b8358c8](https://github.com/alandtse/skyrim_vr_address_library/commit/b8358c81380719bec3c76bb60015b50dae6df4c8))
+
+# [0.283.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.282.0...v0.283.0) (2026-10-19)
+
+
+### Bug Fixes
+
+* name grass, cell and land functions ([#278](https://github.com/alandtse/skyrim_vr_address_library/issues/278)) ([9ab66b2](https://github.com/alandtse/skyrim_vr_address_library/commit/9ab66b250e726ad89f47b7854ec455f38d702083))
+
+
+### Features
+
+* add land, preload and terrain ids ([#279](https://github.com/alandtse/skyrim_vr_address_library/issues/279)) ([73a2df3](https://github.com/alandtse/skyrim_vr_address_library/commit/73a2df3c7969e4100b8aef7d35b19e26d16c4f46))
+* add LOS ray helper ids ([#277](https://github.com/alandtse/skyrim_vr_address_library/issues/277)) ([4285908](https://github.com/alandtse/skyrim_vr_address_library/commit/4285908b3d2f3f98aafed89a03b6b0e79d649e0b))
+* add water reflections ctor and update ids ([#276](https://github.com/alandtse/skyrim_vr_address_library/issues/276)) ([4cb5d5a](https://github.com/alandtse/skyrim_vr_address_library/commit/4cb5d5abc51d7e1fee5e9652ac25d97648f7bc45))
+
 # [0.282.0](https://github.com/alandtse/skyrim_vr_address_library/compare/v0.281.0...v0.282.0) (2026-10-15)
 
 
