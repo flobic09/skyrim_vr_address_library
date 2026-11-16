@@ -2438,8 +2438,8 @@
 69758,0x140c7ca70,0x140cc32c0,3,"bool NiSkinPartition::DrawPartition(NiSkinPartition::DrawContext* a_context, std::uint32_t a_index)"
 69759,0x140c7cb60,0x140cc33b0,3,"bool NiSkinPartition::HasPartitionForLOD(std::uint32_t a_singleLevel, std::uint32_t a_lodIndex)"
 69804,0x140c7eb60,0x140cc5250,3,RE::NiSkinInstance::Ctor
-70045,0x140c871e0,0x140ccdac0,3,void NiParticlesData::LoadBinary_140C871E0(longlong param_1,longlong param_2)
 69838,0x140c80b80,0x140cc7420,3,void NiTriBasedGeom::NiTriBasedGeom(NiGeometryData* a_data)
+70045,0x140c871e0,0x140ccdac0,3,void NiParticlesData::LoadBinary_140C871E0(longlong param_1,longlong param_2)
 70265,0x140c8e220,0x140cd4d20,3,"bool BSLODTriShape::HasDrawableLOD(std::uint32_t a_lodModeA, std::uint32_t a_lodModeB, bool a_checkB)"
 70266,0x140c8e300,0x140cd4e00,3,std::uint32_t BSLODTriShape::GetTriangleCountForLOD(std::uint32_t a_lodMode)
 70361,0x140c91820,0x140cd8370,3,"NiPick* NiPick::ctor(std::uint32_t a_initialSize, std::uint32_t a_growBy)"
