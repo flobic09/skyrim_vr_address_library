@@ -1319,6 +1319,7 @@
 37672,0x1406285a0,0x140631470,3,SimpleOffenceSuppression::IgnoreFriendlyFire::GetFactionRank
 37673,0x140628c20,0x140631af0,4,Character::HitData_140628C20
 37674,0x140629090,0x140631f60,2,papyrus_extender::events::game::weaponhit::static::target_0x6C7
+37689,0x14062b870,0x140634740,4,"void FUN_14062b870(longlong param_1,longlong *param_2)"
 37726,0x14062d050,0x140635f20,3,BSTEventSource<CriticalHit::Event>* CriticalHit::GetEventSource()
 37752,0x14062e390,0x140637260,3,void Actor::StopInteractingQuick(bool a_unk02)
 37757,0x14062ebc0,0x140637a90,3,bool Actor::GetMount(NiPointer<Actor>& a_outMount)
@@ -2690,6 +2691,8 @@
 76426,0x140dbef90,0x140e13f10,2,float bhkCharRigidBodyController::GetSupportMass()
 76456,0x140dc1380,0x140e16300,4,bool bhkCharacterController::IsHurtfulBody(hkpRigidBody* a_body)
 76460,0x140dc16c0,0x140e16650,4,"void bhkCharacterController::ProcessHurtfulBody(hkpRigidBody* a_body, const hkContactPoint* a_contactPoint)"
+76676,0x140dd6780,0x140e2b710,4,"undefined1 *hkpCollidableCollidableFilter::isCollisionEnabled_140DD6780(longlong param_1,undefined1 *param_2,longlong param_3,longlong param_4)"
+76677,0x140dd67b0,0x140e2b740,4,"undefined1 *hkpShapeCollectionFilter::numShapeKeyHitsLimitBreached_140DD67B0 (longlong param_1,undefined1 *param_2,undefined8 param_3,longlong param_4,longlong *param_5,longlong *param_6,int param_7)"
 76683,0x140dd6d10,0x140e2bce0,4,"void bhkCollisionFilter::SetLayerPairCollisionEnabled(COL_LAYER a_layerA, COL_LAYER a_layerB, bool a_enabled)"
 76684,0x140dd6d90,0x140e2bd60,4,"void bhkCollisionFilter::SetLayerBitfield(COL_LAYER a_layer, std::uint64_t a_mask)"
 76693,0x140dd94e0,0x140e2e4b0,4,"void hkpAllRayHitTempCollector::AddRayHit(const hkpCdBody& a_body, const hkpShapeRayCastCollectorOutput& a_hitInfo)"
